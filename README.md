@@ -1,16 +1,15 @@
-### Hi there 👋
+Hey there, I'm Keiredin!
 
-<!--
-**keiredin/keiredin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+🎓 Studying Bachelor of Software Engineering (Expected Graduation date 2023)
+🌱 I’m currently learning web and mobile development
+Languages and Tools
+python  csharp dart java javascript kotlin 
 
-Here are some ideas to get you started:
+html5 css3 bootstrap tailwind
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+django dotnet flask nodejs firebase mongodb mysql postgresql
+
+android flutter git
+
+
