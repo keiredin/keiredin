@@ -2,8 +2,13 @@
 
 
 <h3>About me:</h3>
-<p >🎓 Studying Bachelor of Software Engineering (Expected Graduation date 2023)</p>
-<p >🌱 I’m currently learning mobile and web development</p>
+<p >Hello, I'm Keiredin Aman, a Full-Stack Software Engineer based in Addis Ababa, Ethiopia. With over 5 years of experience in web and mobile application development, including remote work, I have a proven track record of delivering high-quality, scalable solutions using a variety of technologies and frameworks.
+
+I have worked as a Full-Stack Engineer on various projects, including the development of mobile applications using Flutter, as well as web applications using Nextjs, React.js, and TypeScript. I am proficient in TypeScript, JavaScript, Python, Java, React, Nextjs, Flutter, Node.js, PostgreSQL, MongoDB, Docker, and Testing. I have experience working with both frontend and backend technologies, as well as in DevOps and database administration. As a developer, I am passionate about solving complex problems and creating user-friendly interfaces that provide a seamless user experience. I am a quick learner and always eager to learn new technologies and techniques to improve my skills and knowledge.
+
+I am looking for new opportunities to work with software engineering recruiters abroad, where I can leverage my skills and experience to contribute to innovative projects and work with a talented team. Whether it's remote work or in-person, I am always committed to delivering high-quality solutions that meet the needs of my clients and users. If you are looking for a skilled and dedicated software engineer who is passionate about technology and constantly striving to improve, please don't hesitate to contact me.</p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
